@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # noxdev
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# portifolio
+>>>>>>> 9b0e73cc6fd188f840f361c3d82a27c544ee60b5
